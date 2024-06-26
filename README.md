@@ -1,4 +1,4 @@
-# Crop-Prediction
+# Crop-Recommendation
 
 This project aims to predict the most suitable crops to be grown based on soil features (Nitrogen, Phosphorus, Potassium) and weather features
 (Temperature, Humidity, pH, Rainfall).
