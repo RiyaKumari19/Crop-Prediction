@@ -8,8 +8,13 @@ This project aims to predict the most suitable crops to be grown based on soil f
 
 Future Enhancements
 ● Adding geographical data for better recommendations.
+
 ● Collaborating with government to add soil analysis appointment feature.
+
 ● Dynamic soil and weather analysis by installing devices.
+
 ● Collaboration with agriculture university to get survey data.
+
 ● Adding market demand analysis in order for the ease to choose from multiple recommended crops.
+
 ● Adding category of crops in order to filter the recommendation.
